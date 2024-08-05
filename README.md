@@ -49,6 +49,13 @@ To address these shortcomings, a fandom site inspired by the popular Adult Swim 
 ### Authentication and Security
 - JSON Web Tokens (JWT)
 
+## System Architecture 
+The application's architecture can be viewed below: 
+
+![system_architecture](https://github.com/user-attachments/assets/a6ce21a9-dc17-405a-8fd1-c2e06f2af16f)
+
+
+
 ## Screenshots
 
 <img width="1504" alt="Screenshot 2024-08-05 at 7 04 57 PM" src="https://github.com/user-attachments/assets/2cf0199d-e244-400c-a2c8-e5b1484ca623">
