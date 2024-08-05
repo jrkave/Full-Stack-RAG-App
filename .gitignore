@@ -1,0 +1,5 @@
+.env
+frontend/node_modules
+backend/scraper/scraped_html/html_categories
+backend/scraper/scraped_html/html_pages
+backend/scraper/parsed_content
