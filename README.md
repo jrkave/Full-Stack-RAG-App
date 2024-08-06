@@ -18,16 +18,15 @@ To address these shortcomings, a fandom site inspired by the popular Adult Swim 
 
 ## Features
 
-- **Card Collection System**: Track your viewing history and favorite episodes/characters.
-- **Rating System**: Capture your impressions of the show’s content.
-- **Retrieval-Augmented Chatbot**: Get accurate answers to your questions and interact with characters from the show using the chatbot, which uses the OpenAI API and 1,000+ pages of scraped "Rick and Morty" content to help it respond. 
+- **Card Collection System**: Provides a way to track viewing history and favorite episodes/characters. 
+- **Rating System**: Enables the logging of user impressions about epiosdes/characters.
+- **Retrieval-Augmented Chatbot**: Uses context provided through retrieval-augmented generation (RAG) to respond accurately to queries and mimic characters.
 
 ## Technologies Used
 
 ### Backend
 - Django
 - Django REST Framework (DRF)
-
 - SQLite
 
 ### Frontend
@@ -50,10 +49,9 @@ To address these shortcomings, a fandom site inspired by the popular Adult Swim 
 - JSON Web Tokens (JWT)
 
 ## System Architecture 
-The application's architecture can be viewed below: 
-
+The application's architecture is illustrated below:
 ![system_architecture](https://github.com/user-attachments/assets/a6ce21a9-dc17-405a-8fd1-c2e06f2af16f)
-
+Application Architecture
 
 
 ## Screenshots
@@ -108,5 +106,3 @@ Chatbot Landing Page
 <br>
 <img width="1512" alt="Screenshot 2024-08-05 at 7 08 26 PM" src="https://github.com/user-attachments/assets/1a78654f-aca9-478a-bcef-e08ee3a9abe6">
 Chatbot Conversation
-
-
